@@ -117,45 +117,45 @@ export function CustomerForm() {
   );
 }
 ```
-What this tool does NOT do
+## What this tool does NOT do
 
-This generator intentionally does not:
+This generator intentionally does **not**:
+- create backend code
+- generate APIs or databases
+- handle authentication or permissions
+- act as a framework or low-code platform
 
-create backend code
+It generates **plain frontend code** that you own and control.
 
-generate APIs or databases
+---
 
-handle authentication or permissions
+## Who this is for
 
-act as a framework or low-code platform
+- React / Next.js developers
+- Freelancers building internal tools
+- CRUD-heavy admin interfaces
+- Teams that want consistent frontend structure
 
-It generates plain frontend code that you own and control.
+---
 
-Who this is for
-
-React / Next.js developers
-
-Freelancers building internal tools
-
-CRUD-heavy admin interfaces
-
-Teams that want consistent frontend structure
-
-Getting the generator
+## Getting the generator
 
 The full generator (including the UI and ZIP export) is available here:
 
 👉 https://maurifera.gumroad.com/l/crud-ui-generator-react-next
 
-Notes
+---
 
-The generator runs locally
+## Notes
 
-You install dependencies and run it on your machine
+- The generator runs locally
+- You install dependencies and run it on your machine
+- No external services are required
 
-No external services are required
+---
 
-Author
+## Author
 
-Built by Maurício Ferreira
+Built by **Maurício Ferreira**  
 Frontend developer focused on practical, maintainable systems.
+
