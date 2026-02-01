@@ -1,0 +1,1 @@
+# crud-ui-generator-react-next
