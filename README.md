@@ -3,7 +3,7 @@
 Generate clean, consistent CRUD UI code for React and Next.js projects.
 
 👉 **Get the full generator here:**  
-https://maurifera.gumroad.com/l/crud-ui-generator-react-next
+https://maurifera.gumroad.com/l/simple-ui-crud-generator-react-next
 
 ---
 
@@ -142,7 +142,7 @@ It generates **plain frontend code** that you own and control.
 
 The full generator (including the UI and ZIP export) is available here:
 
-👉 https://maurifera.gumroad.com/l/crud-ui-generator-react-next
+👉 https://maurifera.gumroad.com/l/simple-ui-crud-generator-react-next
 
 ---
 
