@@ -101,7 +101,7 @@ export function CustomerList() {
     </table>
   );
 }
-```ts
+```
 Example: Form screen (simplified)
 ```ts
 export function CustomerForm() {
