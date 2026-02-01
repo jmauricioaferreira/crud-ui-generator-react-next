@@ -101,8 +101,9 @@ export function CustomerList() {
     </table>
   );
 }
-
+```ts
 Example: Form screen (simplified)
+```ts
 export function CustomerForm() {
   return (
     <form>
@@ -115,6 +116,7 @@ export function CustomerForm() {
     </form>
   );
 }
+```ts
 What this tool does NOT do
 
 This generator intentionally does not:
@@ -127,6 +129,7 @@ handle authentication or permissions
 
 act as a framework or low-code platform
 
+It generates plain frontend code that you own and control.
 It generates plain frontend code that you own and control.
 
 Who this is for
